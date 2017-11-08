@@ -17,6 +17,14 @@ git diff --staged
 
 git reset --hard
 
+git log --graph --oneline master other-branch
+
+git merge branch1 branch2
+
+git merge --abort
+
+
+
 
 
 
